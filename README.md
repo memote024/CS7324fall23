@@ -45,7 +45,7 @@ Choose a dataset that is mostly ready to be analyzed. That is, it is already in 
 - Are those mistakes? Why do these quality issues exist in the data? 
 - How do you deal with these problems? Give justifications for your methods (elimination or imputation).   
 
-Data Visualization (4.5 points total) 
+# Data Visualization (4.5 points total) 
 
 [2 points] Visualize basic feature distributions. 
 - That is, plot the dynamic range and exploratory distribution plots (like boxplots, histograms, kernel density estimation) to better understand the data. 
@@ -56,7 +56,7 @@ Note: You can also use data from other sources to bolster visualizations. Visu
 Use whichever visualization method is appropriate for your data.  Important: Interpret the implications for each visualization.  
 
 
-Exceptional Work (1 points total) 
+# Exceptional Work (1 points total) 
 - You have free reign to provide any additional analyses.  
 - One idea (required for 7000 level students): implement dimensionality reduction using uniform manifold approximation and projection (UMAP), then visualize and interpret the results. Give an explanation of UMAP dimensionality reduction methods.  
 
